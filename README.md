@@ -225,4 +225,5 @@ print(le.inverse_transform(x_single_prediction))
 ![image](https://github.com/user-attachments/assets/26e99c1c-f44f-4d5c-b21e-13e982ef6a17)
 
 ## RESULT
-Include your result here
+
+Thus a neural network classification model is developed for the given dataset.
